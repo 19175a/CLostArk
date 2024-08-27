@@ -1,0 +1,355 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CMD5Aide" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAABAABAAAAxIAAEAAAAIAAAAQACAQCAAAAA=</HashCode>
+      <FileName>G:\用C++ 做AI与图色自动化脚本系列课程\0基础系列课程\第二章 实现自己的开发框架\DCM\include\ServiceCore\WHEncrypt.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CWHArray&lt;TYPE, ARG_TYPE&gt;" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAZAiQAAEAAAABAAQACYAAAAAgMAAQAEKAAAIAAABAA=</HashCode>
+      <FileName>G:\用C++ 做AI与图色自动化脚本系列课程\0基础系列课程\第二章 实现自己的开发框架\DCM\include\ServiceCore\Array.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLock" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAQAABAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>G:\用C++ 做AI与图色自动化脚本系列课程\0基础系列课程\第二章 实现自己的开发框架\DCM\include\ServiceCore\Lock.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTraceService" Collapsed="true">
+    <Position X="14.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAiAAAAAAACAACgAAAAAAQAAAAAAAAAgAAAAAAAAAAg=</HashCode>
+      <FileName>G:\用C++ 做AI与图色自动化脚本系列课程\0基础系列课程\第二章 实现自己的开发框架\DCM\include\ServiceCore\TraceService.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTraceServiceControl" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAQMAQCAGAUADAAIAAAAAAAADABgAIABAAFABIQAEA=</HashCode>
+      <FileName>G:\用C++ 做AI与图色自动化脚本系列课程\0基础系列课程\第二章 实现自己的开发框架\DCM\include\ServiceCore\TraceService.h</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CWHCommandLine" Collapsed="true">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAAAAAAAACAAAAAAIAAAAAA=</HashCode>
+      <FileName>G:\用C++ 做AI与图色自动化脚本系列课程\0基础系列课程\第二章 实现自己的开发框架\DCM\include\ServiceCore\WHCommandLine.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CWHDataLocker" Collapsed="true">
+    <Position X="12.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAQAAAAAAAARAAAAAAAAAAAAAAAAAAAgAABAAAAAAQ=</HashCode>
+      <FileName>G:\用C++ 做AI与图色自动化脚本系列课程\0基础系列课程\第二章 实现自己的开发框架\DCM\include\ServiceCore\WHDataLocker.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CWHDataQueue" Collapsed="true">
+    <Position X="14.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAgAAAQAAAIAIAAIAAAAIAAAAIAAAQIAACZgAAAA=</HashCode>
+      <FileName>G:\用C++ 做AI与图色自动化脚本系列课程\0基础系列课程\第二章 实现自己的开发框架\DCM\include\ServiceCore\WHDataQueue.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CWHEncrypt" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAgAAAAAAAAAAAAAAAACBAACAAAACBAAAAAAAAAA=</HashCode>
+      <FileName>G:\用C++ 做AI与图色自动化脚本系列课程\0基础系列课程\第二章 实现自己的开发框架\DCM\include\ServiceCore\WHEncrypt.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CWHIniData" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAACAgAAAAgAAAIAEAQAAAAgAAAAQEACAGAAgBAAQA=</HashCode>
+      <FileName>G:\用C++ 做AI与图色自动化脚本系列课程\0基础系列课程\第二章 实现自己的开发框架\DCM\include\ServiceCore\WHIniData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CWHMD5Checksum" Collapsed="true">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABRAIAAAAEAAAAAAgEQEAAwAAAAAAAAEIAAAAAAAIAk=</HashCode>
+      <FileName>G:\用C++ 做AI与图色自动化脚本系列课程\0基础系列课程\第二章 实现自己的开发框架\DCM\include\ServiceCore\WHMD5CheckSum.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CWHRegKey" Collapsed="true">
+    <Position X="12.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAIgEAFIIAggAABEAEAIQBwAAGAAAgCQAgAAA=</HashCode>
+      <FileName>G:\用C++ 做AI与图色自动化脚本系列课程\0基础系列课程\第二章 实现自己的开发框架\DCM\include\ServiceCore\WHRegKey.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CWHService" Collapsed="true">
+    <Position X="14.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgIAAABAAAQAQAAAAAAAAAAAAAAIAEQAAAAAACAQ=</HashCode>
+      <FileName>G:\用C++ 做AI与图色自动化脚本系列课程\0基础系列课程\第二章 实现自己的开发框架\DCM\include\ServiceCore\WHService.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CWHThread" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAEAAgACAgAAAEAABAAAAAQIAAEAAAAAAAAAAgoAAE=</HashCode>
+      <FileName>G:\用C++ 做AI与图色自动化脚本系列课程\0基础系列课程\第二章 实现自己的开发框架\DCM\include\ServiceCore\WHThread.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyDispatchDriver" Collapsed="true">
+    <Position X="11" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACgAAAAACAAAAAAAQEAAAAEAAAA=</HashCode>
+      <FileName>obj.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CShareMemory" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAAAAAQgABIACAAACAAAAAABAgAEEAAAAAAAAAAAA=</HashCode>
+      <FileName>G:\用C++ 做AI与图色自动化脚本系列课程\0基础系列课程\第二章 实现自己的开发框架\DCM\include\ShareMemory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAiTool" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAIAIAAAAAACgAAAAAgAgAAQAAAAEAQJAQgAAAAAAE=</HashCode>
+      <FileName>CAiTool.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDCMEngine" Collapsed="true">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAABACBAASAAAIAIQCCEAAAgAAIAADBQYCYDAEyAQAg=</HashCode>
+      <FileName>CDCMEngine.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTaskManager" Collapsed="true">
+    <Position X="12.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAACAAAAAAAAAAAAAAAAAAAGABKAAAAAgAAAA=</HashCode>
+      <FileName>CTaskManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StopThreadException" Collapsed="true">
+    <Position X="12.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>CTaskThread.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTaskThread" Collapsed="true">
+    <Position X="3.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>mJAAyWoAAKhAgoAAADgACAACAAAZFaQtUMgIgKgoggk=</HashCode>
+      <FileName>CTaskThread.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CWndManager" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQgAAAAAACBAAAEAAAAAAACAQAAAIAAACAA=</HashCode>
+      <FileName>CWndManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dmsoft" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>l/P3u82v//9/787//3796/uvv8//v//++7//2P7s/88=</HashCode>
+      <FileName>obj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDCMApp" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>DCM.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDCMDlg" Collapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kAmBAAFAIQQCAAgAIJAEBQAABDAAAAQKAAYACAAdAAA=</HashCode>
+      <FileName>DCMDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAboutDlg" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DCMDlg.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTaskHelperScript" Collapsed="true">
+    <Position X="5" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAIAEAAA=</HashCode>
+      <FileName>CTaskHelperScript.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTaskScript" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BABADATEAAgAAAEAAQACAgAAgAAAMAAAAACAAIAAAAA=</HashCode>
+      <FileName>CTaskScript.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CHttpSrvThread" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAQAAAgIABAAgEAICAAAAEAAIAAAAAAIAAA=</HashCode>
+      <FileName>CHttpSrvThread.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="tagAstatInfo" Collapsed="true">
+    <Position X="7.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAEAAAAAAA=</HashCode>
+      <FileName>G:\用C++ 做AI与图色自动化脚本系列课程\0基础系列课程\第二章 实现自己的开发框架\DCM\include\ServiceCore\WHService.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="tagThreadParameter" Collapsed="true">
+    <Position X="12.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAgAAAQAAA=</HashCode>
+      <FileName>G:\用C++ 做AI与图色自动化脚本系列课程\0基础系列课程\第二章 实现自己的开发框架\DCM\include\ServiceCore\WHThread.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="tagEnumExeWndItem" Collapsed="true">
+    <Position X="14.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AADAAACAAAAAAAAAAAAAIAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>G:\用C++ 做AI与图色自动化脚本系列课程\0基础系列课程\第二章 实现自己的开发框架\DCM\include\ServiceCore\utils.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="tagEnumExeWndParam" Collapsed="true">
+    <Position X="7.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAEAAAEAAAAAQAAAAAAAAAAAgAA=</HashCode>
+      <FileName>G:\用C++ 做AI与图色自动化脚本系列课程\0基础系列课程\第二章 实现自己的开发框架\DCM\include\ServiceCore\utils.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="tagDataHead" Collapsed="true">
+    <Position X="12.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>G:\用C++ 做AI与图色自动化脚本系列课程\0基础系列课程\第二章 实现自己的开发框架\DCM\include\ServiceCore\WHDataQueue.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="tagBurthenInfo" Collapsed="true">
+    <Position X="9.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAIAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>G:\用C++ 做AI与图色自动化脚本系列课程\0基础系列课程\第二章 实现自己的开发框架\DCM\include\ServiceCore\WHDataQueue.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="tagDataBuffer" Collapsed="true">
+    <Position X="11" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>G:\用C++ 做AI与图色自动化脚本系列课程\0基础系列课程\第二章 实现自己的开发框架\DCM\include\ServiceCore\WHDataQueue.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="tagGameObj" Collapsed="true">
+    <Position X="9.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAABAAAABQQBAAAEAAA=</HashCode>
+      <FileName>G:\用C++ 做AI与图色自动化脚本系列课程\0基础系列课程\第二章 实现自己的开发框架\DCM\include\ShareMemData.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="tagYoloMem" Collapsed="true">
+    <Position X="9.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAQAJAAAAAAAAAAAAAAAAAAIAAAAAAABAoA=</HashCode>
+      <FileName>G:\用C++ 做AI与图色自动化脚本系列课程\0基础系列课程\第二章 实现自己的开发框架\DCM\include\ShareMemData.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="tagOcrMem" Collapsed="true">
+    <Position X="14.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAQABAQAAAAAAAAAAAAQAAAIAABAIAAAAgA=</HashCode>
+      <FileName>G:\用C++ 做AI与图色自动化脚本系列课程\0基础系列课程\第二章 实现自己的开发框架\DCM\include\ShareMemData.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="tagWndInfo" Collapsed="true">
+    <Position X="14.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAIAAQAAAEAAAAAAAAAAAAEgA=</HashCode>
+      <FileName>struct.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="tagGroupUser" Collapsed="true">
+    <Position X="12.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAEAAAAAAAAAAAAggAAAIgAAAAAAAAEAAAA=</HashCode>
+      <FileName>struct.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="tagTaskInfo" Collapsed="true">
+    <Position X="11" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAQIiAAAAAAAAAgAAAAAAAAAIAgE=</HashCode>
+      <FileName>struct.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="tagWndIni" Collapsed="true">
+    <Position X="7.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgggAAQKAAAAIAABACAAEAAAAAAAAAQAIEAAAgAAA=</HashCode>
+      <FileName>struct.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="tagResItem" Collapsed="true">
+    <Position X="7.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAIAAAAAQAAAAAAAAAAAAAgAASAAAAAAACAAQAAACA=</HashCode>
+      <FileName>struct.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="tagGameStatus" Collapsed="true">
+    <Position X="11" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACQAAAiAAAgAAAAAAAAAAEAAAAAAAE=</HashCode>
+      <FileName>struct.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="tagTaskCmd" Collapsed="true">
+    <Position X="9.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAEAAAAgAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>struct.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="FunType" Collapsed="true">
+    <Position X="9.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CTaskThread.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="CMapFunc" Collapsed="true">
+    <Position X="7.5" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CTaskThread.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Interface Name="ITraceService" Collapsed="true">
+    <Position X="7.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>G:\用C++ 做AI与图色自动化脚本系列课程\0基础系列课程\第二章 实现自己的开发框架\DCM\include\ServiceCore\TraceService.h</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="enTraceLevel" Collapsed="true">
+    <Position X="7.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAQAAAAAAEAAAAAEAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>G:\用C++ 做AI与图色自动化脚本系列课程\0基础系列课程\第二章 实现自己的开发框架\DCM\include\ServiceCore\TraceService.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
